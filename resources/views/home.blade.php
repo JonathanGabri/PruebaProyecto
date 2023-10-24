@@ -10,5 +10,5 @@
 @extends('Inyectables_navegacion.seccionesImagenes')
 
 <!--Crear seccion para hacer el llamado de la pestania-->
-@section('title', 'Pagina principal')
+@section('title', 'Pagina principal') 
 

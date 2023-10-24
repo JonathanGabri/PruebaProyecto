@@ -11,5 +11,5 @@
 @extends('Inyectables_navegacion.resumenComentarios')
 
 <!--Crear seccion para hacer el llamado de la pestania-->
-@section('title')
+@section('title', 'Resumen')
 
